@@ -8,6 +8,7 @@ import {
 import { useRoute, useNavigation } from "@react-navigation/native";
 import Message from "../components/Message";
 import InputBox from "../components/InputBox";
+
 import bg from "../../assets/images/BG.png";
 import messages from "../../assets/data/messages.json";
 
